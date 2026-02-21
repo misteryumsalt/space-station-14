@@ -149,7 +149,7 @@
   name: welding tool
   parent: BaseItem
   id: WelderCyber
-  description: "Melts anything as long as it's fueled, don't forget your eye protection!"
+  description: "Melts anything as long as it's fueled. Don't forget your eye protection!"
   components:
   - type: EmitSoundOnLand
     sound:
@@ -971,7 +971,7 @@
   id: RCDCyber
   parent: RCD
   name: cybernetic RCD
-  description: The rapid construction device can be used to quickly place and remove various station structures and fixtures. Requires compressed matter to function.
+  description: This rapid construction device can be used to quickly place and remove various station structures and fixtures. Requires compressed matter to function.
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Tools/cyberling.rsi
@@ -1034,7 +1034,7 @@
   id: StampCyber
   parent: BaseItem
   name: cybernetic multistamp
-  description: The bad boy can fit so many (3) stamps in it!
+  description: This bad boy can fit so many (3) stamps in it!
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Tools/cyberling.rsi
@@ -1083,7 +1083,7 @@
   parent: BaseItem
   id: HoloRestrainerCyber
   name: holorestrainer
-  description: Creates solid, but temporary holographic cuffs.
+  description: Creates solid, but temporary, holographic cuffs.
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Tools/cyberling.rsi
