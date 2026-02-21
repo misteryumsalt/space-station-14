@@ -330,7 +330,7 @@
   parent: SalvageLeadPDA
   id: VeteranSalvageLeadPDA
   name: veteran salvage lead PDA
-  description: looks like this was patched up with a bunch of scrap. barely.
+  description: Looks like this was patched up with a bunch of scrap. Barely...
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Devices/pda.rsi
@@ -353,7 +353,7 @@
   parent: SalvagePDA
   id: VeteranSalvagePDA
   name: veteran salvage PDA
-  description: looks like this was patched up with a bunch of scrap. barely.
+  description: Looks like this was patched up with a bunch of scrap. Barely...
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Devices/pda.rsi
@@ -375,7 +375,7 @@
   parent: BasePDA
   id: MiningPDA
   name: mining PDA
-  description: there is dirt in every crack.
+  description: There is dirt in literally every crack.
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Devices/pda.rsi
@@ -405,7 +405,7 @@
   parent: MiningPDA
   id: VeteranMiningPDA
   name: veteran mining PDA
-  description: the screen is cracked, and the buttons barely work.
+  description: The screen is cracked, and the buttons barely work.
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Devices/pda.rsi
@@ -427,7 +427,7 @@
   parent: BasePDA
   id: MailPDA
   name: mail PDA
-  description: watch out for papercuts.
+  description: Watch out for papercuts!
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Devices/pda.rsi
@@ -449,7 +449,7 @@
   parent: BasePDA
   id: CommanderPDA
   name: commander PDA
-  description: Screw captiancy, LETS GET THAT FUKKIN DISK
+  description: Screw captiancy, LETS GET THAT FUKKIN DISK!
   components:
     - type: Sprite
       sprite: _Starlight/Objects/Devices/pda.rsi
@@ -540,7 +540,7 @@
   parent: BaseMedicalPDA
   id: SeniorParamedicPDA
   name: senior paramedic PDA
-  description: Shiny and sterile, despite the scuffs and scratches
+  description: Shiny and sterile, despite the scuffs and scratches.
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Devices/pda.rsi
