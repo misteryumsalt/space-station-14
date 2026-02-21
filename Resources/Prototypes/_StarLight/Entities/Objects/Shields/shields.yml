@@ -258,7 +258,7 @@
   name: improvised shield
   parent: [ PaladinShield, BaseMinorContraband ]
   id: ImprovisedShield
-  description: Steel welded together in a interlocking pattern to hold up better to various kinds of blows. Don't expect it to do well in a gunfight, however.
+  description: Steel welded together in an interlocking pattern to hold up better against various kinds of blows. Don't expect it to do well in a gunfight, however.
   components:
     - type: Sprite
       sprite: _Starlight/Objects/Weapons/Melee/improvised_shield.rsi
