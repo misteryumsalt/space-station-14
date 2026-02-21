@@ -2,7 +2,7 @@
   name: Volcanic explosion
   parent: [ FoodMealBase, BaseMajorContraband ]
   id: FoodCookedLizardPlate
-  description: An art piece showing the demise of a forest
+  description: An art piece showing the demise of a forest.
   components:
     - type: FlavorProfile
       flavors:
@@ -36,7 +36,7 @@
   name: Kentucky fried felionoid
   parent: [ FoodMealBase, BaseMajorContraband ]
   id: FoodFriedfelionoid
-  description: An old dish modernized to fit new trends
+  description: An old dish modernized to fit new trends.
   components:
     - type: FlavorProfile
       flavors:
@@ -96,7 +96,7 @@
   name: charcuterie board
   parent: FoodMealBase
   id: FoodCharcuterie
-  description: A heaping of bite-sized meats, cheeses, and breads.
+  description: A generous heap of bite-sized meats, cheeses, and breads.
   components:
     - type: FlavorProfile
       flavors:
@@ -162,7 +162,7 @@
   parent: [ FoodBowlBase, BaseMajorContraband]
   id: FoodSoupStewBlinding
   name: one-minute blinding stew
-  description: "My daughter is eating hair! Best way to tell her this is not ok with out being too harsh?"
+  description: "My daughter is eating hair! Best way to tell her this is not okay without being too harsh?"
   components:
     - type: FlavorProfile
       flavors:
@@ -186,7 +186,7 @@
   parent: [FoodNoodlesBase, BaseMajorContraband]
   id: FoodCookedShadekinCore
   name: core spaghetti
-  description: An edible representation of your victory 
+  description: An edible representation of your victory.
   components:
   - type: Item
     storedOffset: 0,-4
