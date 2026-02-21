@@ -2,7 +2,7 @@
   parent: [ DrinkVisualsAllFilled, DrinkBottleGlassBaseFull ]
   id: DrinkVodkizineBottleFull
   name: Vodkizine bottle
-  description: The best cure for and cause of a hangover.
+  description: The best cure for, and cause of, a hangover.
   components:
   - type: SolutionContainerManager
     solutions:
