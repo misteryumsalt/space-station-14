@@ -46,7 +46,7 @@
   name: roast turkey slice
   parent: FoodMealBase
   id: FoodTurkeySlice
-  description: A serving of roast turkey. Next time make the whole feast!
+  description: A serving of roast turkey. Next time, make the whole feast!
   components:
     - type: MultiHandedItem
     - type: FlavorProfile
@@ -76,7 +76,7 @@
   name: festive feast
   parent: BoxCardboard
   id: FoodFeastFestiveDinner
-  description: Collectively it contains at least 32,000 calories.
+  description: Collectively, it contains at least 32,000 calories.
   components:
     - type: MultiHandedItem
     - type: Storage
