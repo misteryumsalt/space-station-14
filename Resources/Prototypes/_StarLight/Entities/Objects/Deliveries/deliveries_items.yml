@@ -1,7 +1,7 @@
 - type: entity
   id: MailSyndicateSpamLetter
   name: Reasons to choose The Syndicate!
-  description: An advertisement for the Syndicate. Wont fit in a fax somehow.
+  description: An advertisement for the Syndicate. Won't fit in a fax somehow.
   parent: [ Paper, BaseSyndicateContraband ]
   components:
     - type: Paper
@@ -22,7 +22,7 @@
 - type: entity
   id: RRMailSyndicateSpamLetter
   name: Reasons to choose The Syndicate!
-  description: An advertisement for the Syndicate. Wont fit in a fax somehow.
+  description: An advertisement for the Syndicate. Won't fit in a fax somehow.
   parent: [ Paper, BaseSyndicateContraband ]
   components:
     - type: Paper
@@ -43,7 +43,7 @@
 - type: entity
   id: MailSpamDontYouWantMore
   name: Don't You Want More?
-  description: An inciting paper that smells faintly of welding fuel and desire. Wont fit in a fax somehow.
+  description: An inciting paper that smells faintly of welding fuel and desire. Won't fit in a fax somehow.
   parent: [ Paper, BaseMajorContraband ]
   components:
     - type: Paper
@@ -182,7 +182,7 @@
   id: MailSovietSpamLetter100
   name: Workers' rights!
   suffix: 100%
-  description: A propaganda pamphlet that smells of burnt matches. It's so thick it won't fit in the fax.
+  description: A propaganda pamphlet that smells of burnt matches. It's so thick that it won't fit in the fax.
   parent: [ Paper, BaseSovietContraband ]
   components:
     - type: Paper
@@ -205,7 +205,7 @@
   id: MailSovietSpamLetter50
   name: Workers' rights!
   suffix: 50%
-  description: A propaganda pamphlet that smells of burnt matches. It's so thick it won't fit in the fax.
+  description: A propaganda pamphlet that smells of burnt matches. It's so thick that it won't fit in the fax.
   parent: [ Paper, BaseSovietContraband ]
   components:
     - type: Paper
@@ -228,7 +228,7 @@
   id: MailSovietSpamLetter25
   name: Workers' rights!
   suffix: 25%
-  description: A propaganda pamphlet that smells of burnt matches. It's so thick it won't fit in the fax.
+  description: A propaganda pamphlet that smells of burnt matches. It's so thick that it won't fit in the fax.
   parent: [ Paper, BaseSovietContraband ]
   components:
     - type: Paper
