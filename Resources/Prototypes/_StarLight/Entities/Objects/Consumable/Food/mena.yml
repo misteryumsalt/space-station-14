@@ -34,7 +34,7 @@
   parent: FoodBreadBase
   id: FoodBreadPita
   name: pita
-  description: A flatbread with internal pocket. Best when eaten stuffed.
+  description: A flatbread with an internal pocket. Best when eaten stuffed.
   components:
   - type: FlavorProfile
     flavors:
