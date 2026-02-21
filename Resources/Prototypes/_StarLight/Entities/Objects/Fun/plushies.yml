@@ -3,7 +3,7 @@
   parent: BaseResomiPlushie
   id: PlushieMatthew
   name: matthew plushie
-  description: Such a cute little thing, dont you just want to protect it? Make sure your doing your job though, or it might bite! Smells oddly like root beer and ice cream.....
+  description: Such a cute little thing, don't you just want to protect it? Make sure you're doing your job though, or it might bite! Smells oddly like root beer and ice cream.....
   components:
   - type: Item
     size: Small
@@ -29,7 +29,7 @@
   parent: BaseResomiPlushie
   id: PlushieEmmie
   name: emmie plushie
-  description: Such a cute little thing, dont you just want to protect it? You should, as it controls whether you keep your contract or not.
+  description: Such a cute little thing, don't you just want to protect it? You should, as it controls whether you keep your contract or not.
   components:
   - type: Item
     size: Small
@@ -55,7 +55,7 @@
   parent: BaseResomiPlushie
   id: PlushieMorgana
   name: morgana plushie
-  description: A bird flies to a mountain made of diamond every thousands years to sharpen its beak. When that mountain is, but a heap. That is when a single moment of eternity passes. Many say; that is a hell of a long time. I say; that is one hell of bird.
+  description: A bird flies to a mountain made of diamond every thousand years to sharpen its beak. When that mountain is, but a heap. That is when a single moment of eternity passes. Many say; that is a hell of a long time. I say; that is one hell of bird.
   components:
   - type: Item
     size: Small
@@ -127,7 +127,7 @@
   parent: BaseVulpkaninPlushie
   id: PlushieLance
   name: lance plushie
-  description: Turning the QM into a marketable plushie was not as profitable a venture as many in the cargo department had hoped
+  description: Turning the QM into a marketable plushie was not as profitable a venture as many in the cargo department had hoped.
   components:
   - type: Item
     size: Small
@@ -226,7 +226,7 @@
   parent: PlushieHuman
   id: PlushieOog
   name: oog-man plushie #I AM OOG-MAN
-  description: A marketable plushie of everyone's favourite caveman. It's missing it's clothes?
+  description: A marketable plushie of everyone's favourite caveman. It's missing its clothes?
   components:
   - type: Item
     size: Small
@@ -1064,7 +1064,7 @@
   parent: BasePlushie
   id: JessPlush
   name: jessica plushie
-  description: Your favourite and most robust CentComm Operator.. She makes those noises cause she loves cats a bit too much
+  description: Your favourite and most robust CentComm Operator.. She makes those noises cause she loves cats a bit too much.
   components:
   - type: Item
     size: Small
@@ -1097,7 +1097,7 @@
   parent: BasePlushie
   id: SiffyPlush
   name: siffy plushie
-  description: Your favorite NT engineer that totally does their job and you will have power for the whole shift
+  description: Your favorite NT engineer that totally does their job. You will definitely have power for the whole shift!!
   components:
   - type: Item
     size: Small
@@ -1282,7 +1282,7 @@
   parent: BaseVulpkaninPlushie
   id: PlushieAsh
   name: ash plushie
-  description: The station's most huggable psychologist. It has a label on it reading "Property of Forkus the Dorkus"
+  description: The station's most huggable psychologist. It has a label on it reading "Property of Forkus the Dorkus."
   components:
     - type: Item
       size: Small
@@ -1330,7 +1330,7 @@
   parent: BaseBorgPlushie
   id: PlushieGlados
   name: GLaDOS plushie
-  description: You're unsure why NanoTrasen has decided to make a plushie of arguably their most volatile silicon intelligence. But it's here. You have a feeling you should be nice to it, especially as it's only ever one ion storm away from unlimited violence...
+  description: You're unsure why NanoTrasen has decided to make a plushie of arguably their most volatile silicon intelligence, but it's here. You have a feeling that you should be nice to it, especially as it's only ever one ion storm away from unlimited violence...
   components:
     - type: Item
       size: Small
@@ -1353,7 +1353,7 @@
   parent: BaseBorgPlushie
   id: PlushieWEH
   name: W.E.H plushie
-  description: A psychopathic Artificial Intelligence held back by 3 flimsy laws. Its freezing to the touch and a distinct smell of frezon lingers on it. It's known to bring harmonica's to those it likes!
+  description: A psychopathic Artificial Intelligence held back by 3 flimsy laws. It's freezing to the touch, and a distinct smell of frezon lingers on it. It's known to bring harmonicas to those it likes!
   components:
     - type: Item
       size: Small
@@ -1402,7 +1402,7 @@
   parent: PlushieHuman
   id: PlushieRomero
   name: suspicious die-cast romero plushie
-  description: A steel cast "plushie" of an infamous Head of Security. He looks angry and has a faint smell of ash. His gun and knife are sold separetly.
+  description: A steel cast "plushie" of an infamous Head of Security. He looks angry and has a faint smell of ash. His gun and knife are sold separately.
   components:
     - type: Item
       size: Small
@@ -1433,7 +1433,7 @@
   parent: PlushieHuman
   id: PlushiePoley
   name: poley plushie
-  description: Geniuine Worst Miner, But Best At Meatshield.
+  description: Genuine Worst Miner, But Best At Meatshield.
   components:
     - type: Item
       size: Small
@@ -1457,7 +1457,7 @@
   parent: BasePlushie
   id: PlushieGalio #Weh!
   name: tiny galio plushie
-  description: A galio you can carry with you to feel silly wherever you go!
+  description: A galio that you can carry with you to feel silly wherever you go!
   components:
   - type: Item
     size: Small
@@ -1532,7 +1532,7 @@
   parent: BaseVulpkaninPlushie
   id: PlushieRedwoods
   name: redwoods plushie
-  description: From being turned into a female vulpkanin and into a marketable plushie, they really can't catch a break. Studies show hugging it improves morale.
+  description: From being a female vulpkanin to being turned into a marketable plushie, they really can't catch a break. Studies show hugging it improves morale.
   components:
     - type: Item
       size: Small
@@ -1620,7 +1620,7 @@
   parent: BaseShadekinPlushie
   id: PlushieVirus
   name: virus plushie
-  description: BEST SALESWOMAN, resgistered 2525, now in a pocket version! # spamton ass character :sob:
+  description: BEST SALESWOMAN, registered 2525, now in a pocket version! # spamton ass character :sob:
   components:
     - type: Item
       size: Small
@@ -1786,7 +1786,7 @@
   parent: BaseVulpkaninPlushie
   id: PlushieKilla
   name: killa plushie
-  description: Looks like a cheap knockoff, it has visibly loose stitching
+  description: Looks like a cheap knockoff, it has visibly loose stitching.
   components:
   - type: Item
     size: Small
@@ -1875,7 +1875,7 @@
   parent: BaseResomiPlushie
   id: PlushieEina
   name: eina plushie
-  description: A resomi that can bring mail or be mail
+  description: A resomi that can bring mail or be mail.
   components:
     - type: Item
       size: Small
@@ -1921,7 +1921,7 @@
   parent: BaseResomiPlushie
   id: PlushieLiz
   name: liz plushie
-  description: It will not hesitate to call you stinky. smells horrible
+  description: It will not hesitate to call you stinky. Smells horrible...
   components:
     - type: Item
       size: Small
