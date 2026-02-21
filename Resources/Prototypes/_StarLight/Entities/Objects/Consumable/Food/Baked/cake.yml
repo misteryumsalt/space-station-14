@@ -63,7 +63,7 @@
   name: A Slice of Cotton Cake
   parent: FoodCottonCake
   id: FoodCottonCakeSlice
-  description: You cut up the moff how dare you
+  description: You cut up the moff! How dare you?!
   components:
     - type: Sprite
       sprite: _Starlight/Objects/Consumable/Food/Custcake.rsi
@@ -95,7 +95,7 @@
   name: A Slice of dreaming
   parent: FoodCakeSliceBase
   id: FoodCakeResomiSlice
-  description: Broken wings cant fly, neither can the Resomi this was made with.
+  description: Broken wings can't fly, neither can the Resomi this was made with.
   components:
     - type: Sprite
       sprite: _Starlight/Objects/Consumable/Food/Custcake.rsi
