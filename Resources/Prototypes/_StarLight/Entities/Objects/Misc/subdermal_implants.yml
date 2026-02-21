@@ -187,7 +187,7 @@
   parent: BaseSubdermalImplant
   id: MindControlImplant
   name: mind control implant
-  description: A knock-off of the Mindshield. this Implant ensures the user is on the side of the syndicate.
+  description: A knock-off of the Mindshield. This implant ensures the user is on the side of the Syndicate.
   categories: [ HideSpawnMenu ]
   components:
     - type: MindControlImplant
