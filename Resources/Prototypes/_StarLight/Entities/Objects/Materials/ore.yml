@@ -56,7 +56,7 @@
   parent: OreBase
   id: RawBluespaceCrystal
   name: raw bluespace crystal
-  description: A glowing bluespace crystal, not much is known about how they work. It looks very delicate.
+  description: A glowing bluespace crystal. Not much is known about how they work. It looks very delicate.
   suffix: Full
   components:
     - type: Stack
