@@ -18,7 +18,7 @@
   parent: DrinkWaterBottleFull
   id: DrinkWaterBottleEmpty
   name: water bottle
-  description: Simple clean water of unknown origin. You think that maybe you dont want to know it.
+  description: Clean, simple water of unknown origin. Maybe it's better not to ask where it came from.
   components:
   - type: SolutionContainerManager
     solutions:
