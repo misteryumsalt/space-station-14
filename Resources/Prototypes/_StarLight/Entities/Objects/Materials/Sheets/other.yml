@@ -42,7 +42,7 @@
   parent: BaseItem
   id: CheapInsulatedFabric
   name: cheap insulated fabric
-  description: A bolt of rough insulated fabric, not much use in it's current form.
+  description: A bolt of rough insulated fabric. It's not much use in its current form.
   components:
     - type: Sprite
       sprite: _Starlight/Objects/Misc/insults.rsi
@@ -91,7 +91,7 @@
   parent: BaseItem
   id: InsulatedFabric
   name: insulated fabric
-  description: A bolt of smooth insulated fabric, not much use in it's current form.
+  description: A bolt of smooth insulated fabric. It's not much use in its current form.
   components:
     - type: Sprite
       sprite: _Starlight/Objects/Misc/insults.rsi
