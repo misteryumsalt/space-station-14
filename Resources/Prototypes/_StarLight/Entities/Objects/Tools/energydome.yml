@@ -1,6 +1,6 @@
 - type: entity
   name: blood red personal shield generator
-  description: A personal shield generator that protects the wearer from lasers and bullets but prevents from using ranged weapons himself. Uses a power cell.
+  description: A personal shield generator that protects the wearer from lasers and bullets, but prevents from using ranged weapons themselves. Uses a power cell.
   id: EnergyDomeGeneratorPersonalSyndie
   parent: BaseItem
   components:
@@ -39,7 +39,7 @@
 
 - type: entity
   name: BR-40c "Turtle"
-  description: A two-handed and heavy energy barrier with extremely low passive energy consumption. Can be tethered with a multitool.
+  description: A two-handed, heavy energy barrier with extremely low passive energy consumption. Can be tethered with a multitool.
   id: EnergyDomeTurtle
   parent: BaseItem
   components:
@@ -103,7 +103,7 @@
 - type: entity
   id: EnergyDomeWiredTest
   name: Static Dome
-  description: Test energy barrier powered by station wiring. I don't know how the hell to balance it.....
+  description: Test energy barrier powered by station wiring. I don't know how the hell to balance it...
   parent: BaseMachine
   suffix: DO NOT MERGE
   placement:
